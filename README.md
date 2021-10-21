@@ -31,11 +31,13 @@ A simple react-native module which allows you to open default navigation app(**I
 	    const startPoint = {
 	      longitude: -8.945406,
 	      latitude: 38.575078
+	      Address: 161+Duke+St,+Glasgow+G31+1JD //Only use Address if you are not using coordinates.
 	    } 
 
 	    const endPoint = {
 	      longitude: -8.9454275,
 	      latitude: 38.5722429
+	      Address: 161+Duke+St,+Glasgow+G31+1JD //Only use Address if you are not using coordinates.
 	    }
 
 			const transportPlan = 'w';
